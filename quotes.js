@@ -118,5 +118,9 @@ const quotes = [
 	{
 		"text": "He who is brave is free.",
 		"author": "Seneca"
+	},
+	{
+		"text": "I love boobs.",
+		"author": "Seneca"
 	}
 ]
